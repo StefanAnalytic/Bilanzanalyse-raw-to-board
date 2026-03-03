@@ -1,0 +1,15 @@
+# 1. Ignoriere standardmäßig alles in diesem Ordner
+*
+
+# 2. Ausnahmen (Whitelist): Diese Dateien sollen ins Repo
+!pipeline.py
+!Kpi-rechner.py
+!Dashboard_Trends.py
+!erstelle_pdf_report.py
+!AAPL_Finanzdaten.db
+!AAPL_KPI_Analyse.csv
+!AAPL_Senior_Analyst_Report.pdf
+
+# 3. Git-Standard-Dateien erlauben
+!README.md
+!.gitignore
