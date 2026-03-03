@@ -10,6 +10,9 @@
 !AAPL_KPI_Analyse.csv
 !AAPL_Senior_Analyst_Report.pdf
 
+# NEU: Das Glossar erlauben
+!KPI_Glossar.md
+
 # 3. Git-Standard-Dateien erlauben
 !README.md
 !.gitignore
